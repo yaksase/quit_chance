@@ -1,1 +1,1 @@
-from .read_config import serverUser, serverPassword, serverHost, serverPort, serverDatabase
+from .read_config import serverUser, serverPassword, serverHost, serverPort, serverDatabase, flaskAppHost, flaskAppPort, flaskAppDebugMode, flaskAppAdminLogin, flaskAppAdminPassword, flaskAppSecretKey
